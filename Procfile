@@ -1,0 +1,1 @@
+worker: python list_bot.py
